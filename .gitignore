@@ -1,0 +1,12 @@
+# rust
+/target
+
+.VSCodeCounter
+rust.md
+
+# sql
+*.sql
+/data
+
+# ai
+AGENTS.md
